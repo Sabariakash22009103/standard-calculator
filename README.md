@@ -85,7 +85,7 @@ Publish the website in the given URL.
 <script src="/static/JS/index.js"></script>
 </html>
 
-#css:
+# css:
 .container{
     text-align: center;
     margin-top:23px
